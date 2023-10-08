@@ -1,3 +1,0 @@
-hi this
-ssh-keygen -t ed25519 -C "25007839d@gmail.com"
-shlsg
